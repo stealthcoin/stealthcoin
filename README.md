@@ -1,0 +1,4 @@
+stealthcoin
+===========
+
+Anonymous cryptocurrency
